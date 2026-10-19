@@ -26,7 +26,7 @@
 ### Cats or dogs?
   - Godot, my dear pet. Shoutout to Python too.
   
-### I hope you enjoyed this interview with myself, presented by myself! Cya around here soon!                                                    
+### I hope you enjoyed this interview with myself, presented by myself! Cya around here soon![^1]                                                    
 
     
 
