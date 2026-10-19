@@ -27,3 +27,10 @@
   - Godot, my dear pet. Shoutout to Python too.
 
 ### I hope you enjoyed this interview with myself, presented by myself! Cya around here soon!
+
+
+
+
+
+
+PS: No AI was used here, nor in my code.
