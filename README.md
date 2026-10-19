@@ -24,13 +24,32 @@
   - Japanese and GD Script
   
 ### Cats or dogs?
-  - Godot, my dear pet. Shoutout to Python too.
+  - Godot[^1], my dear pet. Shoutout to Python too.
   
-### I hope you enjoyed this interview with myself, presented by myself! Cya around here soon![^1]                                                    
+### I hope you enjoyed this interview with myself, presented by myself! Cya around here soon![^2]                                                    
 
     
 
     
   
   
-[^1]: PS: No AI was used here, nor in my code.
+[^2]: PS: No AI was used here, nor in my code.
+[^1]: This is how my pet looks like. Those beautiful, round eyes!
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⡴⡄⠀⠀⠀⠀⠀⢰⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⡽⣎⢷⣹⢳⡀⠀⠀⠀⢠⡞⣽⢣⣟⡻⡆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⡹⣎⢷⣫⢗⡯⣝⢯⡳⣝⢮⡗⣮⢽⡁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢠⡄⠀⠀⠀⣴⠛⣶⡝⣮⢳⡝⣮⢳⡝⣮⢳⡝⣮⡝⣮⢳⣽⢠⠀⠀⠀⣴⠂⠀⠀
+⢀⡞⣯⣝⡳⣵⢫⣗⡻⢶⣹⢮⡳⣝⢮⡳⣝⢮⡳⣝⢧⣛⢮⠷⣭⢏⡷⣲⢞⡵⣛⢶⡀
+⠿⣜⡳⣎⠷⣭⡳⢮⡝⣧⣛⢮⣳⢭⣳⢻⡜⣯⢳⡝⣮⢽⡺⣝⢮⡻⣜⢧⡻⣜⢯⡳⣽
+⠈⢽⢳⣭⣛⠶⣝⢯⡞⣵⢫⡞⣵⢫⡞⣧⢻⡜⣧⢻⡜⣧⢻⡜⣧⢟⡼⣳⢽⡹⣎⠷⠁
+⠀⢨⢗⡮⣝⡻⠜⠁⢀⣀⠉⠽⣎⢷⣹⢎⡷⣻⡜⣯⢞⡭⠉⣀⡀⠈⠹⢧⣏⢷⣹⠂⠀
+⠀⢘⣮⢳⣭⡇⠀⣾⣿⣿⣷⡀⣟⢮⣳⠃⠀⢐⡻⣜⣻⠀⣾⣿⣿⣷⡀⢘⣮⢳⣝⠂⠀
+⠀⠸⣜⡳⣎⢧⠀⠻⢿⡿⠟⢠⡽⣎⢷⠂⠀⠠⣟⡵⣫⡄⠻⢿⡿⠏⠀⣜⢮⡳⣞⡁⠀
+⠀⢸⣱⢻⡜⣯⢳⢦⢤⡰⣖⢯⡞⣽⣚⢶⣀⠶⣝⢾⡱⣏⠶⣤⡄⣶⡹⣝⢮⣳⢽⡀⠀
+⠀⢸⠁⠛⠚⠑⠋⢞⣧⢻⡜⣧⣛⢶⡹⢮⣝⡻⣼⢣⡟⣼⣛⢶⣹⡶⠙⠊⠓⠋⠈⠀⠀
+⠀⠸⣛⢶⣒⡖⣶⠀⡞⣧⣛⠶⣽⠀⢠⣄⡠⣄⣀⠀⣟⢶⡹⣎⢷⠁⣖⣖⡲⣜⢯⠅⠀
+⠀⠀⡿⣜⢧⡻⡼⠀⠀⠀⠛⠛⠃⠀⡿⣸⢧⣛⠿⠀⠘⠛⠛⠀⠀⠀⣸⡜⣧⢻⣼⠀⠀
+⠀⠀⠘⠮⣳⣝⡳⣏⢿⡹⣖⣲⣒⢶⡹⢧⡻⣜⡻⣖⡲⣴⢲⣏⠿⣭⢳⡝⣮⠳⠁⠀⠀
+⠀⠀⠀⠀⠘⠊⠷⣹⣎⢷⡹⢶⡹⢮⣝⡳⣝⢧⡻⣜⣳⢭⡳⣎⠿⣜⡧⠛⠂⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠘⠙⠓⠋⠛⠘⠝⠮⠳⠙⠃⠛⠎⠓⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀
