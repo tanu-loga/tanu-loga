@@ -1,6 +1,6 @@
 # Hi!
-# print(f"I try to make stu{2f} which {negative_form-of-does} {2wərk}")  
-# Let's just not stall with long descriptions and get into the juicy info parts now, shall we?
+## print(f"I try to make stu{2f} which {negative_form-of-does} {2wərk}")  
+## Let's just not stall with long descriptions and get into the juicy info parts now, shall we?
 
 ### Who are you? 
 ### Tanu
