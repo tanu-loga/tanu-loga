@@ -34,9 +34,7 @@
   
   
 [^2]: PS: No AI was used here, nor in my code.
-[^1]: This is how my pet looks like. Those beautiful, round eyes!
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⡴⡄⠀⠀⠀⠀⠀⢰⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+[^1]: This is how my pet looks like. Those beautiful, round eyes! ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⡴⡄⠀⠀⠀⠀⠀⢰⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢸⡽⣎⢷⣹⢳⡀⠀⠀⠀⢠⡞⣽⢣⣟⡻⡆⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⡹⣎⢷⣫⢗⡯⣝⢯⡳⣝⢮⡗⣮⢽⡁⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢠⡄⠀⠀⠀⣴⠛⣶⡝⣮⢳⡝⣮⢳⡝⣮⢳⡝⣮⡝⣮⢳⣽⢠⠀⠀⠀⣴⠂⠀⠀
